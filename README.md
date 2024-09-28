@@ -62,6 +62,10 @@ Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API p
 4. **Verifique se a API está em execução**
 
    - Acesse `http://localhost:8000/docs` em seu navegador para visualizar a documentação interativa gerada pelo Swagger UI.
+   - Ou execute:
+     ```bash
+     curl -X 'GET' 'http://localhost:8000/' -H 'accept: application/json'
+     ```
 
 ### Execução Local a partir do Repositório
 
