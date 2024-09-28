@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API para classificar flores Iris em suas três espécies: **Iris-setosa**, **Iris-versicolor** e **Iris-virginica**, com base em medidas de comprimento e largura das sépalas e pétalas. A API é construída usando FastAPI e o modelo de Machine Learning é treinado utilizando Random Forest Classifier.
+Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API para classificar flores Iris em suas três espécies: **Iris-setosa**, **Iris-versicolor** e **Iris-virginica**, com base em medidas de comprimento e largura das sépalas e pétalas. A API foi construída usando FastAPI e o modelo de Machine Learning foi treinado utilizando Random Forest Classifier.
 
 ---
 
