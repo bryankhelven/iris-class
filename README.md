@@ -253,8 +253,8 @@ Os scripts relacionados ao treinamento do modelo estão localizados na pasta `mo
      - Salvar o modelo treinado e o `LabelEncoder` na pasta `models`.
 
 Os arquivos individuais `data_preparation.py` e `preprocessing.py` também podem ser executados de forma independente, e eles exibem informações pertinentes:
-    - `data_preparation.py`: Processamento e visualização das features e targets, fornecendo detalhes sobre a distribuição dos dados.
-    - `preprocessing.py`: Transformações aplicadas aos dados, como normalização e codificação de rótulos.
+     - `data_preparation.py`: Processamento e visualização das features e targets, trazendo detalhes sobre a distribuição dos dados.
+     - `preprocessing.py`: Transformações aplicadas aos dados, como normalização e codificação de rótulos.
 
 Esses dois arquivos integram a pipeline completa chamada pelo script model_training.py, estando separados a fim de facilitar a modificação das etapas intermediárias do fluxo de treinamento.
 
@@ -326,4 +326,4 @@ iris_class-api/
 
 # Instruções Adicionais
 
-Certifique-se de substituir os placeholders como `seu-usuario`, `Seu Nome` e `seuemail@exemplo.com` com suas informações reais.
+Certifique-se de substituir os placeholders como `seu-usuario` com suas informações reais.
