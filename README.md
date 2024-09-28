@@ -42,19 +42,19 @@ Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API p
 
    ```bash
    git clone https://github.com/bryankhelven/iris_class.git
-   cd iris_class-api
+   cd iris_class
    ```
 
 2. **Construa a imagem Docker**
 
    ```bash
-   docker build -t iris-classification-api .
+   docker build -t iris_class-api .
    ```
 
 3. **Execute o contêiner Docker**
 
    ```bash
-   docker run -d -p 8000:8000 iris-classification-api
+   docker run -d -p 8000:8000 iris_class-api
    ```
 
    - A API estará disponível em `http://localhost:8000`.
@@ -77,7 +77,7 @@ Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API p
 
    ```bash
    git clone https://github.com/bryankhelven/iris_class.git
-   cd iris_class-api
+   cd iris_class
    ```
 
 2. **Crie e ative um ambiente virtual**
@@ -92,8 +92,8 @@ Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API p
    - Ou usando `conda`:
 
      ```bash
-     conda create -n iris-classification python=3.8
-     conda activate iris-classification
+     conda create -n iris-class python=3.8
+     conda activate iris-class
      ```
 
 3. **Instale as dependências**
@@ -203,7 +203,7 @@ Clique no botão `execute` e verifique a resposta no campo `Response body` que a
 
    ```bash
    git clone https://github.com/bryankhelven/iris_class.git
-   cd iris_class-api
+   cd iris_class
    ```
 
 2. **Crie e ative um ambiente virtual**
@@ -218,8 +218,8 @@ Clique no botão `execute` e verifique a resposta no campo `Response body` que a
    - Ou usando `conda`:
 
      ```bash
-     conda create -n iris-classification python=3.8
-     conda activate iris-classification
+     conda create -n iris-class python=3.8
+     conda activate iris-class
      ```
 
 3. **Instale as dependências**
