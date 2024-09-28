@@ -41,7 +41,7 @@ Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API p
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/bryankhelven/iris_class-api.git
+   git clone https://github.com/bryankhelven/iris_class.git
    cd iris_class-api
    ```
 
@@ -76,7 +76,7 @@ Bem-vindo ao projeto **Iris Classification API**! Este projeto fornece uma API p
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/bryankhelven/iris_class-api.git
+   git clone https://github.com/bryankhelven/iris_class.git
    cd iris_class-api
    ```
 
@@ -202,7 +202,7 @@ Clique no botão `execute` e verifique a resposta no campo `Response body` que a
 1. **Clone o repositório e navegue até o diretório**
 
    ```bash
-   git clone https://github.com/bryankhelven/iris_class-api.git
+   git clone https://github.com/bryankhelven/iris_class.git
    cd iris_class-api
    ```
 
