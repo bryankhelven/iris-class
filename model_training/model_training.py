@@ -1,8 +1,8 @@
 import os
 import joblib
 import pandas as pd
-#from data_preparation import load_and_explore_data
-#from preprocessing import preprocess_data
+from data_preparation import load_and_explore_data
+from preprocessing import preprocess_data
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 from sklearn.model_selection import GridSearchCV, StratifiedKFold
