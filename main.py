@@ -37,7 +37,7 @@ async def predict(iris: IrisFeatures):
     # Cria um DataFrame com os dados de entrada
     input_data = pd.DataFrame([[iris.sepal_length, iris.sepal_width, iris.petal_length, iris.petal_width]], columns=feature_names)
 
-    # Faze a previsão
+    # Faz a previsão
     prediction = rf_model.predict(input_data)
     prediction_proba = rf_model.predict_proba(input_data)
 
